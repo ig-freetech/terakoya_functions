@@ -39,6 +39,8 @@ export const PLACE = t.union([
   t.literal(6),
   /**神田校 */
   t.literal(7),
+  /**長沢校 */
+  t.literal(8),
   /**未設定 */
   t.literal(0),
 ]);
