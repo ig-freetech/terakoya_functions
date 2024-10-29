@@ -19,6 +19,8 @@ export const TERAKOYA_TYPE = t.union([
   t.literal(5),
   /**神田校 */
   t.literal(6),
+  /**長沢校 */
+  t.literal(7),
 ]);
 export type TERAKOYA_TYPE = t.TypeOf<typeof TERAKOYA_TYPE>;
 
@@ -37,6 +39,8 @@ export const PLACE = t.union([
   t.literal(6),
   /**神田校 */
   t.literal(7),
+  /**長沢校 */
+  t.literal(8),
   /**未設定 */
   t.literal(0),
 ]);
