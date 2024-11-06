@@ -17,6 +17,48 @@ export const TERAKOYA_TYPE = {
   KANDA: 6,
   /**長沢校 */
   NAGASAWA: 7,
+  /**長南校 */
+  CHONAN: 8,
+  /**谷口校 */
+  TANIGUCHI: 9,
+  /**芦田校 */
+  ASHIDA: 10,
+  /**忠海校 */
+  TADANOUMI: 11,
+  /**土肥校 */
+  TOI: 12,
+  /**泊川校 */
+  TOMARIKAWA: 13,
+  /**菅田校 */
+  SUGATA: 14,
+  /**山守校 */
+  YAMAMORI: 15,
+  /**片田校 */
+  KATATA: 16,
+  /**中松校 */
+  NAKAMATSU: 17,
+  /**中津原校 */
+  NAKATSUBARU: 18,
+  /**長若校 */
+  NAGAWAKA: 19,
+  /**外丸校 */
+  TOMARU: 20,
+  /**上ノ加江校 */
+  KAMINOKAE: 21,
+  /**下市校 */
+  SHIMOICHI: 22,
+  /**修正校 */
+  SYUSEI: 23,
+  /**二升石校 */
+  NISYOISHI: 24,
+  /**生板校 */
+  MANAITA: 25,
+  /**万沢校 */
+  MANZAWA: 26,
+  /**徳光校 */
+  TOKKO: 27,
+  /**海浦校 */
+  UMINOURA: 28,
 } as const;
 /**テラコヤ種別 (terakoya_type) - required */
 export type TERAKOYA_TYPE = (typeof TERAKOYA_TYPE)[keyof typeof TERAKOYA_TYPE];
