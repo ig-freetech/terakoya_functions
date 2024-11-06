@@ -21,6 +21,48 @@ export const TERAKOYA_TYPE = t.union([
   t.literal(6),
   /**長沢校 */
   t.literal(7),
+  /**長南校 */
+  t.literal(8),
+  /**谷口校 */
+  t.literal(9),
+  /**芦田校 */
+  t.literal(10),
+  /**忠海校 */
+  t.literal(11),
+  /**土肥校 */
+  t.literal(12),
+  /**泊川校 */
+  t.literal(13),
+  /**菅田校 */
+  t.literal(14),
+  /**山守校 */
+  t.literal(15),
+  /**片田校 */
+  t.literal(16),
+  /**中松校 */
+  t.literal(17),
+  /**中津原校 */
+  t.literal(18),
+  /**長若校 */
+  t.literal(19),
+  /**外丸校 */
+  t.literal(20),
+  /**上ノ加江校 */
+  t.literal(21),
+  /**下市校 */
+  t.literal(22),
+  /**修正校 */
+  t.literal(23),
+  /**二升石校 */
+  t.literal(24),
+  /**生板校 */
+  t.literal(25),
+  /**万沢校 */
+  t.literal(26),
+  /**徳光校 */
+  t.literal(27),
+  /**海浦校 */
+  t.literal(28),
 ]);
 export type TERAKOYA_TYPE = t.TypeOf<typeof TERAKOYA_TYPE>;
 
@@ -41,6 +83,48 @@ export const PLACE = t.union([
   t.literal(7),
   /**長沢校 */
   t.literal(8),
+  /**長南校 */
+  t.literal(9),
+  /**谷口校 */
+  t.literal(10),
+  /**芦田校 */
+  t.literal(11),
+  /**忠海校 */
+  t.literal(12),
+  /**土肥校 */
+  t.literal(13),
+  /**泊川校 */
+  t.literal(14),
+  /**菅田校 */
+  t.literal(15),
+  /**山守校 */
+  t.literal(16),
+  /**片田校 */
+  t.literal(17),
+  /**中松校 */
+  t.literal(18),
+  /**中津原校 */
+  t.literal(19),
+  /**長若校 */
+  t.literal(20),
+  /**外丸校 */
+  t.literal(21),
+  /**上ノ加江校 */
+  t.literal(22),
+  /**下市校 */
+  t.literal(23),
+  /**修正校 */
+  t.literal(24),
+  /**二升石校 */
+  t.literal(25),
+  /**生板校 */
+  t.literal(26),
+  /**万沢校 */
+  t.literal(27),
+  /**徳光校 */
+  t.literal(28),
+  /**海浦校 */
+  t.literal(29),
   /**未設定 */
   t.literal(0),
 ]);

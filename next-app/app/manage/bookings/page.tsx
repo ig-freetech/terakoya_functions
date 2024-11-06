@@ -168,6 +168,27 @@ const AccordionTableRow = (props: AccordionTableRowProps) => {
             <MenuItem value={6}>ひばりヶ丘校</MenuItem>
             <MenuItem value={7}>神田校</MenuItem>
             <MenuItem value={8}>長沢校</MenuItem>
+            <MenuItem value={9}>長南校</MenuItem>
+            <MenuItem value={10}>谷口校</MenuItem>
+            <MenuItem value={11}>芦田校</MenuItem>
+            <MenuItem value={12}>忠海校</MenuItem>
+            <MenuItem value={13}>土肥校</MenuItem>
+            <MenuItem value={14}>泊川校</MenuItem>
+            <MenuItem value={15}>菅田校</MenuItem>
+            <MenuItem value={16}>山守校</MenuItem>
+            <MenuItem value={17}>片田校</MenuItem>
+            <MenuItem value={18}>中松校</MenuItem>
+            <MenuItem value={19}>中津原校</MenuItem>
+            <MenuItem value={20}>長若校</MenuItem>
+            <MenuItem value={21}>外丸校</MenuItem>
+            <MenuItem value={22}>上ノ加江校</MenuItem>
+            <MenuItem value={23}>下市校</MenuItem>
+            <MenuItem value={24}>修正校</MenuItem>
+            <MenuItem value={25}>二升石校</MenuItem>
+            <MenuItem value={26}>生板校</MenuItem>
+            <MenuItem value={27}>万沢校</MenuItem>
+            <MenuItem value={28}>徳光校</MenuItem>
+            <MenuItem value={29}>海浦校</MenuItem>
           </Select>
         </TableCell>
         <TableCell>
