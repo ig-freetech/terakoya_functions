@@ -129,7 +129,7 @@ const TERAKOYA_TYPE_RADIO_DATA: Array<GroupInputData> = [
   { text: "二升石校", value: TERAKOYA_TYPE.NISYOISHI.toString() },
   { text: "生板校", value: TERAKOYA_TYPE.MANAITA.toString() },
   { text: "万沢校", value: TERAKOYA_TYPE.MANZAWA.toString() },
-  { text: "徳光校", value: TERAKOYA_TYPE.MANZAWA.toString() },
+  { text: "徳光校", value: TERAKOYA_TYPE.TOKKO.toString() },
   { text: "海浦校", value: TERAKOYA_TYPE.UMINOURA.toString() },
 ];
 const TERAKOYA_EXPERIENCE_RADIO_DATA: Array<GroupInputData> = [
